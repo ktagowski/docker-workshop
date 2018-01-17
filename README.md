@@ -5,6 +5,7 @@
 
 **Instalacja Ubuntu / Windows: [LINK](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/) / [LINK](https://docs.docker.com/docker-for-windows/install/)**
 
+**NVIDIA Docker: [LINK](https://github.com/NVIDIA/nvidia-docker)**:
 **Publiczne repozytorium obrazów: [LINK](https://hub.docker.com/)**
 
 
